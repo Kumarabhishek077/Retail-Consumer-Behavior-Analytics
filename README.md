@@ -1,4 +1,4 @@
-# Retail-Consumer-Behavior-Analytics
+# Retail Behavior Analysis
 👨🏻‍💻 Retail Consumer Behavior Analytics — Data Analyst Portfolio Project
 This project demonstrates a complete end-to-end data analytics workflow focused on understanding customer purchasing behavior using Python, SQL, and Power BI.
 It simulates real industry tasks performed by data analysts and showcases practical, job-ready skills.
